@@ -226,13 +226,13 @@ Marketing platform with galleries, SEO, map integration, gift certificates, and 
 
 ## GitHub Activity
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=STAR-SYSTEMS-USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=STAR-SYSTEMS-USERNAME&theme=transparent&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=STAR-Systems-Company&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=STAR-Systems-Company&theme=transparent&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=STAR-SYSTEMS-USERNAME&bg_color=0b1220&color=7dd3fc&line=38bdf8&point=e2e8f0&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=STAR-Systems-Company&bg_color=0b1220&color=7dd3fc&line=38bdf8&point=e2e8f0&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
